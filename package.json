@@ -1,0 +1,22 @@
+{
+  "name": "project-showcase",
+  "version": "1.0.0",
+  "description": "A web application to showcase various projects.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "showcase",
+    "projects",
+    "web"
+  ]
+}
